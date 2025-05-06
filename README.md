@@ -1,6 +1,6 @@
 Advanced SQL Challenges: Sales Data Analysis
 
-This repository contains 20 advanced SQL queries solved using a realistic marketing dataset with a star schema structure. This project aims to demonstrate proficiency in SQL across aggregation, window functions, joins, filtering, and anomaly detection.
+This repository contains 20 advanced SQL queries solved using a realistic sales dataset with a star schema structure. This project aims to demonstrate proficiency in SQL across aggregation, window functions, joins, filtering, and anomaly detection.
 
 Dataset Overview
 
